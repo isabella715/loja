@@ -1,0 +1,2 @@
+# loja
+Projeto A3
